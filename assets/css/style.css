@@ -1,0 +1,11 @@
+body {
+    background: black;
+    color: silver;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+.logo {
+    border: 7px solid goldenrod;
+}
+
